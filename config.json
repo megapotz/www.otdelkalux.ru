@@ -1,0 +1,15 @@
+{
+  "locals": {
+    "url": "https://www.otdelkalux.ru/",
+    "name": "www.otdelkalux.ru",
+    "owner": "Sergey Petunin",
+    "description": "Сайт Артели Сергея Петунина"
+  },
+  "plugins": [],
+  "require": {
+    "_": "underscore"
+  },
+  "jade": {
+    "pretty": false
+  }
+}
